@@ -1,0 +1,81 @@
+{
+  "trash_id": "4a75f9e232124aa5b51017c52650bec9",
+  "name": "[French VOSTFR] Custom",
+  "trash_description": "This is my personal VOSTFR Sonarr profile",
+  "group": 91,
+  "upgradeAllowed": true,
+  "cutoff": "Bluray-2160p",
+  "minFormatScore": 0,
+  "cutoffFormatScore": 10000,
+  "minUpgradeFormatScore": 1,
+  "items": [
+    { "name": "Bluray-2160p Remux", "allowed": false },
+    { "name": "Bluray-2160p", "allowed": true },
+    {
+      "name": "WEBDL-2160p | WEBRip-2160p",
+      "allowed": true,
+      "items": ["WEBDL-2160p", "WEBRip-2160p"]
+    },
+    { "name": "HDTV-2160p", "allowed": true },
+    { "name": "Bluray-1080p Remux", "allowed": false },
+    { "name": "Bluray-1080p", "allowed": true },
+    {
+      "name": "WEBDL-1080p | WEBRip-1080p",
+      "allowed": true,
+      "items": ["WEBDL-1080p", "WEBRip-1080p"]
+    },
+    { "name": "Bluray-720p", "allowed": false },
+    {
+      "name": "WEBDL-720p | WEBRip-720p",
+      "allowed": false,
+      "items": ["WEBDL-720p", "WEBRip-720p"]
+    },
+    { "name": "Raw-HD", "allowed": false },
+    { "name": "HDTV-1080p", "allowed": true },
+    { "name": "HDTV-720p", "allowed": false },
+    { "name": "Bluray-576p", "allowed": false },
+    { "name": "Bluray-480p", "allowed": false },
+    { "name": "DVD", "allowed": false },
+    {
+      "name": "WEBDL-480p | WEBRip-480p",
+      "allowed": false,
+      "items": ["WEBDL-480p", "WEBRip-480p"]
+    },
+    { "name": "SDTV", "allowed": false },
+    { "name": "Unknown", "allowed": false }
+  ],
+  "formatItems": {
+    "VFF": "2c29a39a4fdfd6d258799bc4c09731b9",
+    "VOF": "7ae924ee9b2f39df3283c6c0beb8a2aa",
+    "VFI": "b6816a0e1d4b64bf3550ad3b74b009b6",
+    "VF2": "34789ec3caa819f087e23bbf9999daf7",
+    "VFQ": "7a7f4e4f58bd1058440236d033a90b67",
+    "VOQ": "802dd70b856c423a9b0cb7f34ac42be1",
+    "VQ": "82085412d9a53ba8d8e46fc624eb701d",
+    "VFB": "0ce1e39a4676c6692ce47935278dac76",
+    "Language: Not Original": "ae575f95ab639ba5d15f663bf019e3e8",
+    "Language: Not French": "322fca6f8f3694acc1401ddb530fd33d",
+    "Language: Original + French": "10e77b96ae4770a7de645a91a53ce29a",
+    "MULTi": "7ba05c6e0e14e793538174c679126996",
+    "FR LQ": "3ba797e5dc13af4b8d9bb25e83d90de2",
+    "FastSUB": "ea0bb4b6ba388992fad1092703b5ff7b",
+    "FR HD Bluray Tier 01": "d844321db5e126d2e7e46152f0706532",
+    "FR WEB Tier 01": "ddb8eaa9c85a549c50034d280539d54d",
+    "FR WEB Tier 02": "a4c51febd4d8b2a0db10a3c974f21d92",
+    "FR WEB Tier 03": "dbfc0a4b5cb4cbd693311c4482ae9683",
+    "FR Scene Groups": "2f3422339d185eb227a324644a2fbfca",
+    "HD Bluray Tier 01": "d6819cba26b1a6508138d25fb5e32293",
+    "HD Bluray Tier 02": "c2216b7b8aa545dc1ce8388c618f8d57",
+    "WEB Tier 01": "e6258996055b9fbab7e9cb2f75819294",
+    "WEB Tier 02": "58790d4e2fdcd9733aa7ae68ba2bb503",
+    "WEB Tier 03": "d84935abd3f8556dcd51d4f27e22d0a6",
+    "WEB Scene": "d0c516558625b04b363fa6c5c2c7cfd4",
+    "BR-DISK": "85c61753df5da1fb2aab6f2a47426b09",
+    "LQ": "9c11cd3f07101cdba90a2d81cf0e56b4",
+    "LQ (Release Title)": "e2315f990da2e2cbfc9fa5b7a6fcfe48",
+    "Extras": "fbcb31d8dabd2a319072b84fc0b7249c",
+    "AV1": "15a05bc7c1a36e2b57fd628f8977e2fc",
+    "UHD Streaming Boost": "43b3cf48cb385cd3eac608ee6bca7f09",
+    "HD Streaming Boost": "218e93e5702f44a68ad9e3c6ba87d2f0"
+  }
+}
